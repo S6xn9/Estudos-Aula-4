@@ -1,8 +1,8 @@
 
 # 🖼️ HTML - Inserindo Imagens (Capítulo 06 - Aula 04)
 
-📅 Criado em: **15 de julho de 2025**  
-📚 Matéria: **Desenvolvimento Web / HTML**  
+📅 Criado em: **16 de julho de 2025**  
+📚 Matéria:**Programação Web (HTML5 e CSS3)**  
 ✍️ Autor: **Marco**
 
 ---
